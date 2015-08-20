@@ -1,6 +1,0 @@
-www.google.com
-<html>jaja</html>
-www.baidu.com
-<html>jsiof</html>
-www.yahoo.com
-<html>jiaoef</html>
